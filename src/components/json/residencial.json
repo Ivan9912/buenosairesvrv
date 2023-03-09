@@ -3,7 +3,7 @@
         "id": "1",
         "titulo": "Daikin Kirara Sense",
         "slogan": "La evolución del confort interior, con sensor inteligente. Tecnología japonesa de máxima eficiencia para tu hogar.",
-        "img": "/img/Residencial/id1.png",
+        "img": ["/img/Residencial/id1.png"],
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-sense.pdf",
         "category": "residencial",
         "detalle": [
@@ -19,7 +19,7 @@
         "id": "2",
         "titulo": "Mini Split Inverter Daikin",
         "slogan": "Diseñado para climatizar todos los ambientes del hogar con el máximo nivel de eficiencia energética.",
-        "img": "/img/Residencial/id2.png",
+        "img": ["/img/Residencial/id2.png"],
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-split.pdf",
         "category": "residencial",
         "detalle": [
@@ -35,7 +35,7 @@
         "id": "3",
         "titulo": "Multi Split Inverter Premium Daikin",
         "slogan": "Un equipo exterior de alto rendimiento y eficiencia energética que permite conectar hasta 5 diferentes tipos de unidades.",
-        "img": "/img/Residencial/id3.png",
+        "img": ["/img/Residencial/id3.png"],
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split-premium.pdf",
         "category": "residencial",
         "detalle": [
@@ -51,7 +51,7 @@
         "id": "4",
         "titulo": "Multi Split Inverter Daikin",
         "slogan": "Ideal para climatizar todos los ambientes de tu hogar con una sola unidad exterior.",
-        "img": "/img/Residencial/id4.png",
+        "img": ["/img/Residencial/id4.png"],
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split.pdf",
         "category": "residencial",
         "detalle": [
@@ -67,7 +67,7 @@
         "id": "5",
         "titulo": "VRV SMALL",
         "slogan": "El sistema más eficiente del mercado en su versión small que permite climatizar hasta 14 ambientes con múltiples diseños interiores.",
-        "img": "/img/Residencial/id5.png",
+        "img": ["/img/Residencial/id5.png"],
         "catalogo": " No existe ",
         "category": "residencial",
         "detalle": [
@@ -91,55 +91,59 @@
         ],
         "detalle": [
             "¿Necesitás un sistema de climatización que no requiera gas natural?",
-            "Mini Chiller Inverter Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
-            [
-                "Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
-                "Máxima eficiencia con combustión 0%.",
-                "Sistema con bomba de calor: AEROTERMIA.",
-                "Único sistema: calefacción y refrigeración.",
-                "Sostenible: alto ahorro energético y reducido impacto ambiental.",
-                "Operación -15°C a 45°C.",
-                "Unidad condensadora exterior, sin ocupar espacio interior.",
-                "100% eléctrico. Ideal zonas con falta de gas.",
-                "Equipos modulares hasta 8 unidades.",
-                "Bajo nivel sonoro.",
-                "Conexión con fan coils y piso radiante.",
-                "Compatible con paneles solares.",
-                {
-                    "img": "/img/Residencial/0600.jpeg",
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/mini-chiller-A4-Agosto-2022-online.pdf"
-                }
-            ],
-            [
-                "El silencio es Confort",
-                "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.\nSe trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado.",
-                "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.",
-                "Se trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado.",
-                "La batalla del frío",
-                "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.\nEste equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C.",
-                "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.",
-                "Este equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C.",
-                {
-                    "img": "/img/Residencial/0601.jpeg"
-                }
-            ],
-            [
-                {
-                    "titulo": "Fan Coil de conductos",
-                    "slogan": "Máxima eficiencia ocupando el menor espacio posible. Sus unidades, extremadamente silenciosas, se adaptan con facilidad a cualquier ambiente.",
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/fancoil-A4-agosto-2022-online.pdf",
-                    "detalle": [
-                        "Diseño delgado, tienen solo 24cm de alto, es la solución ideal para espacios reducidos.",
-                        "Climatización invisible empotrable en cieloraso.",
-                        "Óptima distribución del aire.",
-                        "Modelo de baja presión con bandeja de condensado con descarga.",
-                        "Apto para aire acondicionado y calefacción.",
-                        "Control inteligente Touch Screen.",
-                        "Amplio rango de capacidades de 2 a 8 KW.",
-                        "Fácil mantenimiento con filtro de nylon lavable y pleno retorno posterior."
-                    ]
-                }
-            ]
+            "Mini Chiller Inverter Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes."
+        ]
+    },
+    {
+        "id": "6.1",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/mini-chiller-A4-Agosto-2022-online.pdf",
+        "img": ["/img/Residencial/0600.jpeg"],
+        "category": "residencial",
+        "detalle": [
+            "Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
+            "Máxima eficiencia con combustión 0%.",
+            "Sistema con bomba de calor: AEROTERMIA.",
+            "Único sistema: calefacción y refrigeración.",
+            "Sostenible: alto ahorro energético y reducido impacto ambiental.",
+            "Operación -15°C a 45°C.",
+            "Unidad condensadora exterior, sin ocupar espacio interior.",
+            "100% eléctrico. Ideal zonas con falta de gas.",
+            "Equipos modulares hasta 8 unidades.",
+            "Bajo nivel sonoro.",
+            "Conexión con fan coils y piso radiante.",
+            "Compatible con paneles solares."
+        ]
+    },
+    {
+        "id": "6.2",
+        "category": "residencial",
+        "img": ["/img/Residencial/0601.jpeg"],
+        "detalle": [
+            "El silencio es Confort",
+            "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.\nSe trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado.",
+            "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.",
+            "Se trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado.",
+            "La batalla del frío",
+            "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.\nEste equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C.",
+            "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.",
+            "Este equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C.",
+        ]
+    },
+    {
+        "id": "6.3",
+        "category": "residencial",
+        "titulo": "Fan Coil de conductos",
+        "slogan": "Máxima eficiencia ocupando el menor espacio posible. Sus unidades, extremadamente silenciosas, se adaptan con facilidad a cualquier ambiente.",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/fancoil-A4-agosto-2022-online.pdf",
+        "detalle": [
+            "Diseño delgado, tienen solo 24cm de alto, es la solución ideal para espacios reducidos.",
+            "Climatización invisible empotrable en cieloraso.",
+            "Óptima distribución del aire.",
+            "Modelo de baja presión con bandeja de condensado con descarga.",
+            "Apto para aire acondicionado y calefacción.",
+            "Control inteligente Touch Screen.",
+            "Amplio rango de capacidades de 2 a 8 KW.",
+            "Fácil mantenimiento con filtro de nylon lavable y pleno retorno posterior."
         ]
     },
     {
